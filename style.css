@@ -1,0 +1,64 @@
+ .bor{
+    border: 2PX solid black;
+    width: 400px;
+    height:400px;
+    box-sizing: border-box;
+    box-shadow: 0 4px 15px rgba (0,0,0,0.1);
+
+
+}
+.login{
+    h1{
+    font-size: 40px;
+
+
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+    }
+}
+.inp{
+        padding: 10px;
+
+    input{
+        font-size: 10px;
+        text-transform: capitalize;
+        border: 2px solid rgb(189, 185, 185);
+        height:40px;
+        width: 300px;
+        border-radius: 5px;
+    }
+}
+.but{
+    background-color: blue;
+    padding: 5px;
+    width:300px ;
+    height: 40px;
+}
+.but:hover{
+color: white;
+
+}
+.fac{
+    
+    color: blue;
+    font-size: 20px;
+    padding: 20px;
+
+}
+.for{
+    color:gray ;
+    padding: 20px;
+    
+
+}
+span{
+    padding: 10px;
+    font-size: 25px;
+    font-weight: bold;
+    margin-top: 20px;
+}
+.spa{
+    position: absolute;
+    right: 12px;
+    top: 50%;
+}
